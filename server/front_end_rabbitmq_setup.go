@@ -2,7 +2,7 @@ package server
 
 import (
 	"fmt"
-	"front-end/config"
+	"front-end-httpserver/config"
 	"github.com/streadway/amqp"
 	"log"
 )
